@@ -1,1 +1,1 @@
-# Class-187
+# PRO-C187-Student-Boilerplate
